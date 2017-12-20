@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Style id="z1">
+<IconStyle>
+<Icon>
+<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/blue-dot.png
+</href>
+</Icon>
+</IconStyle>
+
+</Style>
+
+
+<Placemark>
+<name>3029 Shrine PL</name>
+
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.28058770000001,34.025064199999996
+</coordinates>
+</Point>
+
+</Placemark>
+
+
+
+<Placemark>
+<name>Kaprielian Hall</name>
+
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.291078,34.022649</coordinates>
+</Point>
+
+</Placemark>
+
+
+<Placemark>
+<name>Leventhal School of Accounting
+</name>
+
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.285811,34.019136</coordinates>
+</Point>
+
+</Placemark>
+
+
+<Placemark>
+<name>KXSC Radio</name>
+
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.286488,34.020368</coordinates>
+</Point>
+
+</Placemark>
+
+
+<Placemark>
+<name>Leavey Library</name>
+
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.282771,34.021881</coordinates>
+</Point>
+
+</Placemark>
+
+
+<Placemark>
+<name>Jefferson / Figueroa </name>
+
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.280318,34.022347</coordinates>
+</Point>
+
+</Placemark>
+
+
+<Placemark>
+<name>S Figueroa St</name>
+
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.281603,34.019185</coordinates>
+</Point>
+
+</Placemark>
+
+
+<Placemark>
+<name>3756-3734 S Vermont Ave</name>
+
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.291535,34.019218</coordinates>
+</Point>
+
+</Placemark>
+
+
+<Placemark>
+<name>3115 S Vermont Ave</name>
+
+<styleUrl>#z1</styleUrl>
+<Point>
+<coordinates>-118.291874,34.026120</coordinates>
+</Point>
+
+</Placemark>
+
+
+
+</Document>
+</kml>
